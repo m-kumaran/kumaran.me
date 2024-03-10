@@ -14,7 +14,7 @@ role: Software Engineer / Architect / Manager
 
 # Organizations/Affiliations
 organizations:
-- name: "Publicis Sapient / Goldman Sachs"
+- name: " Publicis Sapient / Goldman Sachs"
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -64,6 +64,6 @@ user_groups:
 
 - Around 20  years of experience in analysis, design, development, and implementation of software systems
 - Experience in high volume, highly available, low latency, transactional microservices design & development
-- Certified Scrum Master and Scrum@Scale Practitioner, with experience in Scrum, XP, Kanban, Scrumban etc
-- Domain knowledge in FinTech(Payments, Banking), Telecommunication and Digital Media
+- Certified Scrum Master and Scrum@Scale Practitioner, with experience in Scrum, XP, Kanban, Scrumban, etc
+- Domain knowledge in FinTech (Payments, Banking), Telecommunication and Digital Media
 - Experience in object-oriented and functional programming using Java, Kotlin, Scala and Golang

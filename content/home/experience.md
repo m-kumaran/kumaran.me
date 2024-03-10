@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
-subtitle = "I have experience in manging global team and worked in India, Dubai, USA, and the UK"
+subtitle = "Managed global teams across India, Dubai, USA, and the UK"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = """
   
     * Client: Goldman Sachs
-  * Tech: Java 21, Kotlin 1.9, React, Kafka, Spring Boot, AWS, Docker,Postgres
+  * Tech: Java 21, Kotlin 1.9, React, Kafka, Spring Boot, AWS, Docker, Postgres
   * Domain: Transaction banking, Payments, ISO 20022, PaymentRails
   """
 [[experience]]
