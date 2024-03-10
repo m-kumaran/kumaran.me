@@ -433,11 +433,34 @@
       $('.js-dark-toggle i').removeClass('fa-sun').addClass('fa-moon');
     }
 
+  
+
     // Toggle day/night mode.
     $('.js-dark-toggle').click(function (e) {
       e.preventDefault();
       toggleDarkMode(codeHlEnabled, codeHlLight, codeHlDark, diagramEnabled);
     });
+
+    //hack
+    $('body').css({
+      opacity: 0,
+      visibility: 'visible'
+    }).animate({
+      opacity: 1
+    }, 500);
+    $('body').addClass('dark');
+    if (codeHlEnabled) {
+      codeHlLight.disabled = true;
+      codeHlDark.disabled = false;
+    }
+    $('.js-dark-toggle i').removeClass('fa-moon').addClass('fa-sun');
+    localStorage.setItem('dark_mode', '1');
+    if (diagramEnabled) {
+      // TODO: Investigate Mermaid.js approach to re-render diagrams with new theme without reloading.
+      location.reload();
+    }
+  
+
   });
 
   /* ---------------------------------------------------------------------------
