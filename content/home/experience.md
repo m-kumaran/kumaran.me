@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
-subtitle = "Worked in India, Dubai, USA and UK"
+subtitle = "I have experience in manging global team and worked in India, Dubai, USA, and the UK"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
