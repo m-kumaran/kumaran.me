@@ -43,6 +43,6 @@ hero_media = "holiday.jpg"
 
 
 +++
-##  Pragmatic, polyglot developer/architect/manager with experience in **Java, Kotlin**, Scala, Golang etc
+##  Pragmatic, polyglot developer/architect/manager with experience in **Java, Kotlin**, Scala, Golang, etc
 
 Certified Scrum Master and Certified Scrum@Scale Practitioner
