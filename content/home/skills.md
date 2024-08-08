@@ -15,23 +15,45 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
  
 [[feature]]
-  icon = "java"
-  icon_pack = "fab"
   name = "Java"
-  percent = "98%"
+  percent = "98%" 
 [[feature]]
-  icon = "k"
-  icon_pack = "fas"
+  name = "Microservices and Architecture"
+  percent = "90%" 
+[[feature]]
+  name = "Spring framework (boot)"
+  percent = "90%"
+[[feature]]
+  name = "Kafka"
+  percent = "80%"
+[[feature]]
   name = "Kotlin"
   percent = "50%"
 [[feature]]
-  icon = "scala"
-  icon_pack = "fas"
+  name = "AWS"
+  percent = "80%"
+[[feature]]
+  name = "GCP"
+  percent = "60%"
+[[feature]]
   name = "Scala"
+  percent = "40%"
+[[feature]]
+  name = "Go lang"
+  percent = "20%"
+[[feature]]
+  name = "Database-DynamoDb,Postgres, Oracle"
+  percent = "85%"
+[[feature]]
+  name = "HTML, Javascript, CSS, Sass"
+  percent = "90%"
+[[feature]]
+  name = "ReactJs,Typescript"
   percent = "50%"
 [[feature]]
-  icon = "user-secret"
-  icon_pack = "fas"
-  name = "Leadership"
-  percent = "80%"  
+  name = "Technical Leadership"
+  percent = "70%"  
+[[feature]]
+  name = "Project Management"
+  percent = "70%"  
 +++
