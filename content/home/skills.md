@@ -45,7 +45,7 @@ subtitle = ""
   name = "Database-DynamoDb,Postgres, Oracle"
   percent = "85%"
 [[feature]]
-  name = "HTML, Javascript, CSS, Sass"
+  name = "HTML, Javascript, CSS"
   percent = "90%"
 [[feature]]
   name = "ReactJs,Typescript"
